@@ -1,0 +1,1 @@
+c:/Users/HP/git/AAA-practicalpart/glad-main.py --training C:\Users\HP\git\AAA-practicalpart\pan15-authorship-verification-training-dataset-english-2015-04-19\ --save_model .\example_model\ -c svm

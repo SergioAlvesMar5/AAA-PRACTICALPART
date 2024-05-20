@@ -1,0 +1,69 @@
+BEST RESULTS:
+
+
+SVM: CV 16
+The number of problems: 100
+The number of correct answers: 74
+The number of incorrect answers: 23
+The number of unanswered problems: 3
+The c@1 score: 0.762000
+The AUC: 0.776000
+The combined score of c@1*AUC: 0.591312
+0.5913120000000001
+
+
+
+SVM_GS1: CV 20
+The number of problems: 100
+The number of correct answers: 58
+The number of incorrect answers: 41
+The number of unanswered problems: 1
+The c@1 score: 0.586000
+The AUC: 0.518000
+The combined score of c@1*AUC: 0.303548
+0.303548
+
+
+SVM_GS2: CV 20
+The number of problems: 100
+The number of correct answers: 60
+The number of incorrect answers: 40
+The number of unanswered problems: 0
+The c@1 score: 0.600000
+The AUC: 0.600000
+The combined score of c@1*AUC: 0.360000
+0.36
+
+
+MNB: CV 21
+The number of problems: 100
+The number of correct answers: 61
+The number of incorrect answers: 39
+The number of unanswered problems: 0
+The c@1 score: 0.610000
+The AUC: 0.655000
+The combined score of c@1*AUC: 0.399550
+0.39955
+
+
+KNN: CV 10
+The number of problems: 100
+The number of correct answers: 62
+The number of incorrect answers: 38
+The number of unanswered problems: 0
+The c@1 score: 0.620000
+The AUC: 0.717000
+The combined score of c@1*AUC: 0.444540
+0.44454
+
+
+RAF: CV 15
+The number of problems: 100
+The number of correct answers: 71
+The number of incorrect answers: 29
+The number of unanswered problems: 0
+The c@1 score: 0.710000
+The AUC: 0.778000
+The combined score of c@1*AUC: 0.552380
+0.55238
+
