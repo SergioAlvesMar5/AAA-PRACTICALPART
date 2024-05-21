@@ -54,7 +54,7 @@ In the following examples the following placeholders are used to have shorter co
 
 ### Using the classifier ###
 `python3 glad-main.py --training $trainingDataset --c [classifier]`
-> `--c` "all available classifiers
+> `-c` "all available classifiers
                 "svm", "Support Vector Machine"
                 "svm_gs1", "Co-best SVM according to Skll Grid Search",
                 "svm_gs2", "Co-best SVM according to Skll Grid Search",
